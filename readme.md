@@ -16,4 +16,4 @@ Next, navigate to the "QRDA Schematron to Spreadsheet.ipynb" file in the browser
 
 ...or
 
-[Click here to see the notebook on github](https://github.com/angelok1/QRDA-Schematron-comparison)
+[Click here to see the notebook on github](https://github.com/angelok1/QRDA-Schematron-comparison/blob/master/QRDA%20Schematron%20to%20Spreadsheet.ipynb)
